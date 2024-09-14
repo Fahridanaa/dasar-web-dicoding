@@ -5,7 +5,7 @@ This project, created as part of the Belajar Dasar Pemrograman Web course by Dic
 ## Criteria
 
 - [x] Terdapat elemen **Header, Footer, Main, Article,** dan **Aside**
-- [ ] Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
+- [x] Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
 - [x] Wajib menampilkan menampilkan foto di elemen <aside>
 - [x] Menyusun layout menggunakan **flexbox**, bukan **float**.
 
